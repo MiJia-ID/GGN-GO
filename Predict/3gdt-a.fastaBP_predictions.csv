@@ -1,0 +1,43 @@
+### Predictions made by GGN-GO.,,,
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+3GDT-A,GO:0055086,0.99872,nucleobase-containing small molecule metabolic process
+3GDT-A,GO:0019856,0.99599,pyrimidine nucleobase biosynthetic process
+3GDT-A,GO:0019637,0.99599,organophosphate metabolic process
+3GDT-A,GO:0006206,0.99524,pyrimidine nucleobase metabolic process
+3GDT-A,GO:0009117,0.99342,nucleotide metabolic process
+3GDT-A,GO:0006796,0.99335,phosphate-containing compound metabolic process
+3GDT-A,GO:0006793,0.99324,phosphorus metabolic process
+3GDT-A,GO:0009218,0.99237,pyrimidine ribonucleotide metabolic process
+3GDT-A,GO:0046112,0.99207,nucleobase biosynthetic process
+3GDT-A,GO:0072528,0.99166,pyrimidine-containing compound biosynthetic process
+3GDT-A,GO:0034654,0.98999,nucleobase-containing compound biosynthetic process
+3GDT-A,GO:0006753,0.98976,nucleoside phosphate metabolic process
+3GDT-A,GO:0019438,0.9896,aromatic compound biosynthetic process
+3GDT-A,GO:0090407,0.98793,organophosphate biosynthetic process
+3GDT-A,GO:0009220,0.98559,pyrimidine ribonucleotide biosynthetic process
+3GDT-A,GO:0072527,0.98545,pyrimidine-containing compound metabolic process
+3GDT-A,GO:1901293,0.98534,nucleoside phosphate biosynthetic process
+3GDT-A,GO:0006220,0.98502,pyrimidine nucleotide metabolic process
+3GDT-A,GO:0006221,0.98268,pyrimidine nucleotide biosynthetic process
+3GDT-A,GO:0009165,0.98035,nucleotide biosynthetic process
+3GDT-A,GO:0006207,0.97981,'de novo' pyrimidine nucleobase biosynthetic process
+3GDT-A,GO:0006222,0.97437,UMP biosynthetic process
+3GDT-A,GO:0009259,0.97247,ribonucleotide metabolic process
+3GDT-A,GO:0046049,0.97125,UMP metabolic process
+3GDT-A,GO:1901135,0.9707,carbohydrate derivative metabolic process
+3GDT-A,GO:0019693,0.96856,ribose phosphate metabolic process
+3GDT-A,GO:0009174,0.96824,pyrimidine ribonucleoside monophosphate biosynthetic process
+3GDT-A,GO:0009173,0.96799,pyrimidine ribonucleoside monophosphate metabolic process
+3GDT-A,GO:1901137,0.96652,carbohydrate derivative biosynthetic process
+3GDT-A,GO:0009112,0.96644,nucleobase metabolic process
+3GDT-A,GO:0046390,0.95892,ribose phosphate biosynthetic process
+3GDT-A,GO:0009260,0.93849,ribonucleotide biosynthetic process
+3GDT-A,GO:0009130,0.93149,pyrimidine nucleoside monophosphate biosynthetic process
+3GDT-A,GO:0009129,0.91116,pyrimidine nucleoside monophosphate metabolic process
+3GDT-A,GO:0009156,0.90939,ribonucleoside monophosphate biosynthetic process
+3GDT-A,GO:0044205,0.90298,'de novo' UMP biosynthetic process
+3GDT-A,GO:0009161,0.84269,ribonucleoside monophosphate metabolic process
+3GDT-A,GO:0009124,0.7781,nucleoside monophosphate biosynthetic process
+3GDT-A,GO:0009123,0.69217,nucleoside monophosphate metabolic process
+3GDT-A,GO:0051179,0.30016,localization
+3GDT-A,GO:0051234,0.15346,establishment of localization

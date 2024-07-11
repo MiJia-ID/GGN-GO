@@ -1,0 +1,5 @@
+### Predictions made by GGN-GO.,,,
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+6GEN-G,GO:0003677,0.96044,DNA binding
+6GEN-G,GO:0046982,0.95577,protein heterodimerization activity
+6GEN-G,GO:0046983,0.93472,protein dimerization activity

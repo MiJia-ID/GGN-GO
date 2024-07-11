@@ -1,0 +1,38 @@
+### Predictions made by GGN-GO.,,,
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+4TMK-A,GO:0009165,0.99869,nucleotide biosynthetic process
+4TMK-A,GO:1901293,0.99858,nucleoside phosphate biosynthetic process
+4TMK-A,GO:0006793,0.99666,phosphorus metabolic process
+4TMK-A,GO:0006753,0.99647,nucleoside phosphate metabolic process
+4TMK-A,GO:0055086,0.99583,nucleobase-containing small molecule metabolic process
+4TMK-A,GO:0006796,0.99549,phosphate-containing compound metabolic process
+4TMK-A,GO:0090407,0.99536,organophosphate biosynthetic process
+4TMK-A,GO:0019637,0.99342,organophosphate metabolic process
+4TMK-A,GO:0009117,0.99322,nucleotide metabolic process
+4TMK-A,GO:0046940,0.98954,nucleoside monophosphate phosphorylation
+4TMK-A,GO:0009202,0.98825,deoxyribonucleoside triphosphate biosynthetic process
+4TMK-A,GO:0034654,0.98786,nucleobase-containing compound biosynthetic process
+4TMK-A,GO:0009219,0.9878,pyrimidine deoxyribonucleotide metabolic process
+4TMK-A,GO:0009263,0.98577,deoxyribonucleotide biosynthetic process
+4TMK-A,GO:0006220,0.98293,pyrimidine nucleotide metabolic process
+4TMK-A,GO:0046385,0.98286,deoxyribose phosphate biosynthetic process
+4TMK-A,GO:0019438,0.97876,aromatic compound biosynthetic process
+4TMK-A,GO:0009221,0.97825,pyrimidine deoxyribonucleotide biosynthetic process
+4TMK-A,GO:0009200,0.97686,deoxyribonucleoside triphosphate metabolic process
+4TMK-A,GO:0009211,0.97663,pyrimidine deoxyribonucleoside triphosphate metabolic process
+4TMK-A,GO:0009394,0.97402,2'-deoxyribonucleotide metabolic process
+4TMK-A,GO:0009262,0.96902,deoxyribonucleotide metabolic process
+4TMK-A,GO:0009123,0.96853,nucleoside monophosphate metabolic process
+4TMK-A,GO:0009265,0.96716,2'-deoxyribonucleotide biosynthetic process
+4TMK-A,GO:0019692,0.96676,deoxyribose phosphate metabolic process
+4TMK-A,GO:0072527,0.95473,pyrimidine-containing compound metabolic process
+4TMK-A,GO:0009141,0.95408,nucleoside triphosphate metabolic process
+4TMK-A,GO:0009142,0.9487,nucleoside triphosphate biosynthetic process
+4TMK-A,GO:0009147,0.94052,pyrimidine nucleoside triphosphate metabolic process
+4TMK-A,GO:0009148,0.90958,pyrimidine nucleoside triphosphate biosynthetic process
+4TMK-A,GO:1901135,0.90519,carbohydrate derivative metabolic process
+4TMK-A,GO:0006221,0.90493,pyrimidine nucleotide biosynthetic process
+4TMK-A,GO:1901137,0.90265,carbohydrate derivative biosynthetic process
+4TMK-A,GO:0072528,0.85568,pyrimidine-containing compound biosynthetic process
+4TMK-A,GO:0009132,0.74928,nucleoside diphosphate metabolic process
+4TMK-A,GO:0016310,0.43504,phosphorylation

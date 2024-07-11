@@ -1,0 +1,13 @@
+### Predictions made by GGN-GO.,,,
+Protein,GO_term/EC_number,Score,GO_term/EC_number name
+6AGB-D,GO:0004521,0.99999,endoribonuclease activity
+6AGB-D,GO:0140098,0.99998,"catalytic activity, acting on RNA"
+6AGB-D,GO:0004549,0.99998,tRNA-specific ribonuclease activity
+6AGB-D,GO:0004540,0.99996,ribonuclease activity
+6AGB-D,GO:0004518,0.99991,nuclease activity
+6AGB-D,GO:0004519,0.99989,endonuclease activity
+6AGB-D,GO:0016891,0.99989,"endoribonuclease activity, producing 5'-phosphomonoesters"
+6AGB-D,GO:0016788,0.99987,"hydrolase activity, acting on ester bonds"
+6AGB-D,GO:0140101,0.99987,"catalytic activity, acting on a tRNA"
+6AGB-D,GO:0016893,0.99959,"endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters"
+6AGB-D,GO:0003723,0.90352,RNA binding
