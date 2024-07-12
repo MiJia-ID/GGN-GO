@@ -41,7 +41,5 @@ Protein	GO_term	    Score	GO_term_name
 We provide the datasets here for those interested in reproducing our paper. The datasets used in this study are stored in ```../Data/```.
 The trained GLMSite models can be found under ```../Model/```.
 
-# contact
-Jia Mi(2023400222@buct.edu.cn)  
 
 
