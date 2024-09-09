@@ -28,7 +28,7 @@ And the prediction results will be saved in
 The default model parameters are trained on the combination of PDBch and AFch training set, e.g., `model_bp.pt`, `model_cc.pt` and `model_mf.pt`.\
 You can also use the model parameters which are only trained on the PDBch training set, e.g., `model_bp_pdb.pt`, `model_cc_pdb.pt` and `model_mf_pdb.pt`.
 
-#### output
+### output
 ```txt
 ### Predictions made by GGN-GO.			
 Protein	GO_term	    Score	GO_term_name
@@ -37,7 +37,7 @@ Protein	GO_term	    Score	GO_term_name
 6GEN-G	GO:0046983	0.93472	protein dimerization activity
 ```
 
-# Dataset and model
+## Dataset and model
 We provide the datasets here for those interested in reproducing our paper. The datasets used in this study are stored in ```../Data/```.
 The trained GLMSite models can be found under ```../Model/```.
 
