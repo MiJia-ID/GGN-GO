@@ -16,7 +16,7 @@ You also need to install the relative packages to run ESM2 and ProtTrans protein
 ESM2 model weight we use can be downloaded [here](https://dl.fbaipublicfiles.com/fair-esm/models/esm1b_t33_650M_UR50S.pt).
 ProtTrans model weight we use can be downloaded [here](https://github.com/agemagician/ProtTrans)
 
-# Run GGN-GO for prediction
+## Run GGN-GO for prediction
 Simply run:  
 ```
 python predict.py --fasta_file ../Predict/6GEN-G.fasta
