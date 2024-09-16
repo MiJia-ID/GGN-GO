@@ -5,12 +5,13 @@ GGN-GO: A Geometric Graph Network Method for Protein Function Prediction Using M
 
 <img src="Model/fig1.jpg">
 
-## Setup Environment
+## Installation
 
 Clone the current repo
 
     git clone https://github.com/MiJia-ID/GGN-GO.git
     conda env create -f environment.yml
+    pip install . or pip install -r requirements.txt
 
 You also need to install the relative packages to run ESM2 and ProtTrans protein language model. \
 ESM2 model weight we use can be downloaded [here](https://dl.fbaipublicfiles.com/fair-esm/models/esm1b_t33_650M_UR50S.pt).
@@ -39,7 +40,7 @@ Protein	GO_term	    Score	GO_term_name
 
 ## Dataset and model
 We provide the datasets here for those interested in reproducing our paper. The datasets used in this study are stored in ```../Data/```.
-The trained GLMSite models can be found under ```../Model/```.
+The trained GGN_GO models can be found under ```../Model/```.
 
 
 
