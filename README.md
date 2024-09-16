@@ -1,4 +1,11 @@
-GGN-GO
+<h1 align="center">
+  GGN-GO
+</h1>
+
+<p align="center">
+    <a href="https://zenodo.org/doi/10.5281/zenodo.13768952"><img src="https://zenodo.org/badge/818847334.svg" alt="DOI"></a>
+</p>
+
 ====
 GGN-GO: A Geometric Graph Network Method for Protein Function Prediction Using Multi-scale Structural Features
 ---
@@ -42,5 +49,7 @@ Protein	GO_term	    Score	GO_term_name
 We provide the datasets here for those interested in reproducing our paper. The datasets used in this study are stored in ```../Data/```.
 The trained GGN_GO models can be found under ```../Model/```.
 
+
+https://zenodo.org/badge/818847334.svg
 
 
