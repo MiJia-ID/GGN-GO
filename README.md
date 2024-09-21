@@ -1,13 +1,6 @@
-<h1 align="center">
-  GGN-GO
-</h1>
+# GGN-GO: A Geometric Graph Network Method for Protein Function Prediction Using Multi-scale Structural Features
 
 [![DOI](https://zenodo.org/badge/818847334.svg)](https://zenodo.org/doi/10.5281/zenodo.13768952)
-===
-GGN-GO: A Geometric Graph Network Method for Protein Function Prediction Using Multi-scale Structural Features
----
-
-<img src="Model/fig1.jpg">
 
 ## Installation
 
