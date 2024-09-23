@@ -1,6 +1,10 @@
 # GGN-GO: A Geometric Graph Network Method for Protein Function Prediction Using Multi-scale Structural Features
 
-[![DOI](https://zenodo.org/badge/818847334.svg)](https://zenodo.org/doi/10.5281/zenodo.13768952)
+[![DOI](https://zenodo.org/badge/818847334.svg)](https://zenodo.org/doi/10.5281/zenodo.13768952
+        
+        
+        
+        )
 
 ## Installation
 
@@ -13,6 +17,9 @@ Clone the current repo
 You also need to install the relative packages to run ESM2 and ProtTrans protein language model. \
 ESM2 model weight we use can be downloaded [here](https://dl.fbaipublicfiles.com/fair-esm/models/esm1b_t33_650M_UR50S.pt).
 ProtTrans model weight we use can be downloaded [here](https://github.com/agemagician/ProtTrans)
+
+## Model training
+
 
 ## Run GGN-GO for prediction
 Simply run:  
